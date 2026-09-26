@@ -1,0 +1,95 @@
+{
+  "preparation": [
+    {
+      "check": "Monthly net",
+      "actual": 19067691.118,
+      "expected": 19067691.118,
+      "passed": true
+    },
+    {
+      "check": "Country net",
+      "actual": 19067691.118,
+      "expected": 19067691.118,
+      "passed": true
+    },
+    {
+      "check": "Product net",
+      "actual": 19067691.118,
+      "expected": 19067691.118,
+      "passed": true
+    },
+    {
+      "check": "Country-month net",
+      "actual": 19067691.118,
+      "expected": 19067691.118,
+      "passed": true
+    },
+    {
+      "check": "Monthly orders",
+      "actual": 40077,
+      "expected": 40077,
+      "passed": true
+    },
+    {
+      "check": "Cohort customers",
+      "actual": 5878,
+      "expected": 5878,
+      "passed": true
+    }
+  ],
+  "workbook": [
+    {
+      "check": "Dashboard gross, full scope",
+      "actual": 20533741.918000005,
+      "expected": 20533741.918,
+      "passed": true
+    },
+    {
+      "check": "Dashboard net, full scope",
+      "actual": 19067691.118000004,
+      "expected": 19067691.118,
+      "passed": true
+    },
+    {
+      "check": "Dashboard orders, full scope",
+      "actual": 40077,
+      "expected": 40077,
+      "passed": true
+    },
+    {
+      "check": "Country control changes gross",
+      "actual": 17465896.336999997,
+      "expected": 17465896.337,
+      "passed": true
+    },
+    {
+      "check": "Country and date controls combine",
+      "actual": 7144452.433999999,
+      "expected": 7144452.434000001,
+      "passed": true
+    },
+    {
+      "check": "Reversed date range clears totals",
+      "actual": 0,
+      "expected": 0,
+      "passed": true
+    },
+    {
+      "check": "Segment control",
+      "actual": 704,
+      "expected": 704,
+      "passed": true
+    }
+  ],
+  "formula_scan": "{\"kind\":\"notice\",\"message\":\"Cell search matched 0 entries.\"}",
+  "native_excel": "Not yet performed",
+  "features": {
+    "tables": true,
+    "charts": true,
+    "dropdowns": true,
+    "pivot_tables": false,
+    "power_query": false,
+    "slicers": false,
+    "data_model": false
+  }
+}

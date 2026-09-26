@@ -1,0 +1,80 @@
+{
+  "read_only_parser": "openpyxl 3.1.5",
+  "xlsx_integrity": "passed",
+  "sheet_count": 10,
+  "native_chart_count": 4,
+  "table_count": 14,
+  "dropdown_count": 4,
+  "formula_errors": [],
+  "cached_kpis": [
+    {
+      "cell": "Sales_Overview!B10",
+      "metric": "gross",
+      "cached_value": 20533741.918000005,
+      "passed": true
+    },
+    {
+      "cell": "Sales_Overview!F10",
+      "metric": "returns",
+      "cached_value": 1466050.8000000003,
+      "passed": true
+    },
+    {
+      "cell": "Sales_Overview!J10",
+      "metric": "net",
+      "cached_value": 19067691.118000004,
+      "passed": true
+    },
+    {
+      "cell": "Sales_Overview!B14",
+      "metric": "orders",
+      "cached_value": 40077,
+      "passed": true
+    },
+    {
+      "cell": "Sales_Overview!F14",
+      "metric": "aov",
+      "cached_value": 512.3572602240688,
+      "passed": true
+    },
+    {
+      "cell": "Sales_Overview!J14",
+      "metric": "return_rate",
+      "cached_value": 0.07139715721832712,
+      "passed": true
+    }
+  ],
+  "chart_bindings": [
+    {
+      "chart": "xl/drawings/charts/chart1.xml",
+      "source_references": [
+        "'Sales_Overview'!$B$38:$B$62",
+        "'Sales_Overview'!$E$38:$E$62"
+      ]
+    },
+    {
+      "chart": "xl/drawings/charts/chart2.xml",
+      "source_references": [
+        "'Product_Analysis'!$B$12:$B$21",
+        "'Product_Analysis'!$C$12:$C$21"
+      ]
+    },
+    {
+      "chart": "xl/drawings/charts/chart3.xml",
+      "source_references": [
+        "'Customer_RFM'!$B$8:$B$13",
+        "'Customer_RFM'!$C$8:$C$13"
+      ]
+    },
+    {
+      "chart": "xl/drawings/charts/chart4.xml",
+      "source_references": [
+        "'Regional_Analysis'!$B$8:$B$15",
+        "'Regional_Analysis'!$C$8:$C$15"
+      ]
+    }
+  ],
+  "no_macros_or_external_workbook_links": true,
+  "native_excel_opening": "Not performed",
+  "all_checks_passed": true
+}
