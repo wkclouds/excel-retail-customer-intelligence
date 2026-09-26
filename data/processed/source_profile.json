@@ -1,0 +1,21 @@
+{
+  "sheets": {
+    "Year 2009-2010": {
+      "rows": 525461,
+      "start": "2009-12-01 07:45:00",
+      "end": "2010-12-09 20:01:00",
+      "within_sheet_repeated_rows": 6865
+    },
+    "Year 2010-2011": {
+      "rows": 541910,
+      "start": "2010-12-01 08:26:00",
+      "end": "2011-12-09 12:50:00",
+      "within_sheet_repeated_rows": 5268
+    }
+  },
+  "raw_repeated_rows": 34335,
+  "cross_sheet_overlap_removed": 22523,
+  "retained_repeated_rows": 11812,
+  "analysis_rows": 1044848,
+  "matching_rule": "All eight source fields plus within-sheet occurrence number"
+}
