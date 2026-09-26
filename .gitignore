@@ -1,0 +1,14 @@
+node_modules/
+data/raw/*
+!data/raw/.gitkeep
+__pycache__/
+*.pyc
+.venv/
+~$*.xlsx
+*.inspect.ndjson
+*.log
+.env
+.env.*
+*.zip
+Thumbs.db
+.DS_Store
